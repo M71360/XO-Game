@@ -1,6 +1,6 @@
 
 .game{
-     width: 492px;
+     width: 792px;
      text-align: center;
      font-family: Al Bayan,'Courier New', Courier, monospace;
      color: white;
@@ -18,8 +18,8 @@ span{
      color: rgb(0, 0, 0);
 }
 .square{
-     width: 160px;
-     height: 150px;
+     width: 260px;
+     height: 250px;
      background: aqua;
      float: left;
      margin: 2px;
