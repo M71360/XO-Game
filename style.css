@@ -12,7 +12,7 @@
      background: aqua;
      padding: 5px 0;
      margin: 5px 0;
-     font-size: 40px;
+     font-size: 80px;
 }
 span{
      color: rgb(0, 0, 0);
@@ -23,7 +23,7 @@ span{
      background: aqua;
      float: left;
      margin: 2px;
-     font-size: 90px;
+     font-size: 180px;
      text-align: center;
 }
 .square:hover{
